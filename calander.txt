@@ -29,3 +29,5 @@
 "Local-3-Kendall-Saturday",0,0,0,0,0,1,0,20180401,20180623
 "Local-3-Clarendon_Hill-Sunday",0,0,0,0,0,0,1,20180401,2018050623
 "Local-3-Kendall-Sunday",0,0,0,0,0,0,1,20180401,20180623
+"School-901-Lynnfield_High-Weekday",1,1,1,1,1,0,0,20180401,20180623
+"School-901-Goodwins_Circle-Weekday",1,1,1,1,1,0,0,20180401,20180623
