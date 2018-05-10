@@ -20,6 +20,12 @@
 "Local-2-Celestine_Terrace-Sunday",0,0,0,0,0,1,0,20180401,2018050623
 "Local-2-Stone_Zoo-Sunday",0,0,0,0,0,0,1,20180401,20180623
 "Local-2-Redstone-Sunday",0,0,0,0,0,0,1,20180401,20180623
-"Local-2-Wedgemere-Sunday",0,0,0,0,0,1,0,20180401,20180623
-"Local-2-Wedgemere-Sunday",0,0,0,0,0,1,0,20180401,20180623
-"Local-2-Wedgemere-Sunday",0,0,0,0,0,1,0,20180401,20180623
+"Local-2-Wedgemere-Sunday",0,0,0,0,0,0,1,20180401,20180623
+"Local-2-Wedgemere-Sunday",0,0,0,0,0,0,1,20180401,20180623
+"Local-2-Wedgemere-Sunday",0,0,0,0,0,0,1,20180401,20180623
+"Local-3-Clarendon_Hill-Weekday",1,1,1,1,1,0,0,20180401,2018050623
+"Local-3-Kendall-Weekday",1,1,1,1,1,0,0,20180401,20180623
+"Local-3-Clarendon_Hill-Saturday",0,0,0,0,0,1,0,20180401,2018050623
+"Local-3-Kendall-Saturday",0,0,0,0,0,1,0,20180401,20180623
+"Local-3-Clarendon_Hill-Sunday",0,0,0,0,0,0,1,20180401,2018050623
+"Local-3-Kendall-Saturday",0,0,0,0,0,0,1,20180401,20180623
