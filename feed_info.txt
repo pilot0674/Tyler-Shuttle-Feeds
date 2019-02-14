@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
-Tyler Shuttle,,EN,20190128,20190316,"Winter 2019, 2019-02-04T19:41:25+00:00, version D",pilot102703@mgail.com
+Tyler Shuttle,,EN,20190101,20190316,"Winter 2019, version 1",pilot102703@mgail.com
