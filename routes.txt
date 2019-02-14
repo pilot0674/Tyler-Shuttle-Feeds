@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_fare_class,route_type,route_url,route_color,route_text_color,route_sort_order,line_id,listed_route
+WY1,1,1,Route 1: Downtown casper - Casper Mountain,Route 1 is a short bus route that services Downtown Casper and the Casper Mountains. Mostly used to accomidate commuters and people trying to get into the city.,,Local Bus,,614056,614056,1,rte1,1
